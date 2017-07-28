@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="faceanalysis.AzureTable">
+    <ContentPage.Content>
+        <StackLayout Margin="20">
+            <Button Text="Fetch Table Data" TextColor="White" BackgroundColor="Red" Clicked="Handle_ClickedAsync" />
+            <Label x:Name="status" />
+            <ListView x:Name="FaceAnalysisList" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Vertical">
+                                <Label Text="" />
+                                <Label Text="{Binding Gender, StringFormat='Gender: {0}'}" />
+                                <Label Text="{Binding Age, StringFormat='Age: {0:N}'}" />
+                                <Label Text="{Binding Smile, StringFormat='Smile: {0:N}'}" />
+                                <Label Text="{Binding Anger, StringFormat='Anger: {0:N}'}" />
+                                <Label Text="{Binding Contempt, StringFormat='Contempt: {0:N}'}" />
+                                <Label Text="{Binding Disgust, StringFormat='Disgust: {0:N}'}" />
+                                <Label Text="{Binding Fear, StringFormat='Fear: {0:N}'}" />
+                                <Label Text="{Binding Happiness, StringFormat='Happiness: {0:N}'}" />
+                                <Label Text="{Binding Neutral, StringFormat='Neutral: {0:N}'}" />
+                                <Label Text="{Binding Sadness, StringFormat='Sadness: {0:N}'}" />
+                                <Label Text="{Binding Surprise, StringFormat='Surprise: {0:N}'}" />
+                                <Label Text="{Binding Glasses, StringFormat='Glasses: {0}'}" />
+                                <Label Text="{Binding Bald, StringFormat='Bald: {0:N}'}" />
+                                <Label Text="{Binding Black, StringFormat='Black: {0:N}'}" />
+                                <Label Text="{Binding Other, StringFormat='Other: {0:N}'}" />
+                                <Label Text="{Binding Red, StringFormat='Red: {0:N}'}" />
+                                <Label Text="{Binding Brown, StringFormat='Brown: {0:N}'}" />
+                                <Label Text="{Binding Gray, StringFormat='Gray: {0:N}'}" />
+                                <Label Text="{Binding Blonde, StringFormat='Blonde: {0:N}'}" />
+                                <Label Text="" />
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,68 @@
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\faceanalysis.dll.config
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\faceanalysis.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\faceanalysis.pdb
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Microsoft.ProjectOxford.Common.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Microsoft.ProjectOxford.Face.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Newtonsoft.Json.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.Abstractions.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.Extensions.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.Primitives.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Core.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Platform.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Newtonsoft.Json.xml
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.pdb
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.xml
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.Abstractions.pdb
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.Abstractions.xml
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.xml
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.Extensions.xml
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.Primitives.xml
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Core.pdb
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Core.xml
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.csproj.App.config
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.MainPage.xaml.g.cs
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.App.xaml.g.cs
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.dll
+c:\Users\rnjsr\Documents\Visual Studio 2017\Projects\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.pdb
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\faceanalysis.dll.config
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\faceanalysis.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\faceanalysis.pdb
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.Abstractions.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.pdb
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.Abstractions.pdb
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Plugin.Media.Abstractions.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.csproj.App.config
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.MainPage.xaml.g.cs
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.App.xaml.g.cs
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.AzureTable.xaml.g.cs
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.Analysis.xaml.g.cs
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.dll
+C:\Users\rnjsr\Desktop\faceanalysis\faceanalysis\faceanalysis\obj\Debug\faceanalysis.pdb
